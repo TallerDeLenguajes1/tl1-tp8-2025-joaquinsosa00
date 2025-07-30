@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7nN/Kzgv0x8=",
+  "dgSpecHash": "5yh7yDNITtQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\Taller1-TP8\\tl1-tp8-2025-joaquinsosa00\\ToDo\\ToDo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TPS Taller 1\\Tp8\\tl1-tp8-2025-joaquinsosa00\\ToDo\\ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaqu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\joaqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\joaqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\joaqu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
